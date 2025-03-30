@@ -10,7 +10,7 @@ Feel free to explore and contribute!
 
 | Chapter    | Notes                        |
 | ---------- | ---------------------------- |
-| Chapter 1  | [Notes](The Hundred-Page LMs Book - Chapter 1 Notes)  |
+| Chapter 1  | [Notes](The%20Hundred-Page%20LMs%20Book%20-%20Chapter%201%20Notes.pdf)  |
 | Chapter 2  | [Notes]()  |
 | Chapter 3  | [Notes]()  |
 | Chapter 4  | [Notes]()  |

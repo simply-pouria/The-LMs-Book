@@ -25,7 +25,7 @@ Feel free to explore and contribute!
 
 | Chapter | Code |
 |---------|------|
-| Chapter 1 | [Code](code/chapter_1/) |
+| Chapter 1 | [Jypyter Notebook Code](TheLMBook_Chapter1.ipynb)) |
 | Chapter 2 | [Code](code/chapter_2/) |
 | Chapter 3 | [Code](code/chapter_3/) |
 | Chapter 4 | [Code](code/chapter_4/) |

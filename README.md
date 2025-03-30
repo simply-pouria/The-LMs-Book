@@ -10,16 +10,16 @@ Feel free to explore and contribute!
 
 | Chapter    | Notes                        |
 | ---------- | ---------------------------- |
-| Chapter 1  | [Notes](notes/chapter_1.md)  |
-| Chapter 2  | [Notes](notes/chapter_2.md)  |
-| Chapter 3  | [Notes](notes/chapter_3.md)  |
-| Chapter 4  | [Notes](notes/chapter_4.md)  |
-| Chapter 5  | [Notes](notes/chapter_5.md)  |
-| Chapter 6  | [Notes](notes/chapter_6.md)  |
-| Chapter 7  | [Notes](notes/chapter_7.md)  |
-| Chapter 8  | [Notes](notes/chapter_8.md)  |
-| Chapter 9  | [Notes](notes/chapter_9.md)  |
-| Chapter 10 | [Notes](notes/chapter_10.md) |
+| Chapter 1  | [Notes](The Hundred-Page LMs Book - Chapter 1 Notes)  |
+| Chapter 2  | [Notes]()  |
+| Chapter 3  | [Notes]()  |
+| Chapter 4  | [Notes]()  |
+| Chapter 5  | [Notes]()  |
+| Chapter 6  | [Notes]()  |
+| Chapter 7  | [Notes]()  |
+| Chapter 8  | [Notes]()  |
+| Chapter 9  | [Notes]()  |
+| Chapter 10 | [Notes]() |
 
 ## 💻 Code Implementations
 

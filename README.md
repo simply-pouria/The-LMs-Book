@@ -25,14 +25,14 @@ Feel free to explore and contribute!
 
 | Chapter | Code |
 |---------|------|
-| Chapter 1 | [Jypyter Notebook Code](TheLMBook_Chapter1.ipynb)) |
-| Chapter 2 | [Code](code/chapter_2/) |
-| Chapter 3 | [Code](code/chapter_3/) |
-| Chapter 4 | [Code](code/chapter_4/) |
-| Chapter 5 | [Code](code/chapter_5/) |
-| Chapter 6 | [Code](code/chapter_6/) |
-| Chapter 7 | [Code](code/chapter_7/) |
-| Chapter 8 | [Code](code/chapter_8/) |
-| Chapter 9 | [Code](code/chapter_9/) |
-| Chapter 10 | [Code](code/chapter_10/) |
+| Chapter 1 | [Jypyter Notebook Code](TheLMBook_Chapter1.ipynb) |
+| Chapter 2 | [Jypyter Notebook Code](TheLMBook_Chapter2.ipynb) |
+| Chapter 3 | [Jypyter Notebook Code]() |
+| Chapter 4 | [Jypyter Notebook Code]() |
+| Chapter 5 | [Jypyter Notebook Code]() |
+| Chapter 6 | [Jypyter Notebook Code]() |
+| Chapter 7 | [Jypyter Notebook Code]() |
+| Chapter 8 | [Jypyter Notebook Code]() |
+| Chapter 9 | [Jypyter Notebook Code]() |
+| Chapter 10 | [Jypyter Notebook Code]() |
 

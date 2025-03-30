@@ -2,7 +2,8 @@
 
 This repository contains my study notes and code implementations while reading *The Hundred-Page Language Models Book* by Andriy Burkov, Implementing, solving the few errors that were in the book, creating review notes, etc.
 
-It has been a fantastic book so far! you can check it out [here](https://www.thelmbook.com/)
+It has been a fantastic book so far! you can check it out [here](https://www.thelmbook.com/).
+
 Feel free to explore and contribute! 
 
 ## 📖 Study Notes

@@ -6,6 +6,10 @@ It has been a fantastic book so far! you can check it out [here](https://www.the
 
 Feel free to explore and contribute! 
 
+## 📺 Presentation 
+I gave a presentation on The Language Model Book on May 17th, 2025 (first 100 pages), highlighting key concepts, practical insights, and applications.The Slides are here.
+[First Hundered Pages](ML%20Introduction%20Pesentation%20(SC).pdf)
+
 ## 📖 Study Notes
 
 | Chapter    | Notes                        |

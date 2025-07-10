@@ -20,10 +20,6 @@ I gave a presentation on The Language Model Book on May 17th, 2025 (first 100 pa
 | Chapter 4  | [Notes]()  |
 | Chapter 5  | [Notes]()  |
 | Chapter 6  | [Notes]()  |
-| Chapter 7  | [Notes]()  |
-| Chapter 8  | [Notes]()  |
-| Chapter 9  | [Notes]()  |
-| Chapter 10 | [Notes]() |
 
 ## 💻 Code Implementations
 
@@ -35,8 +31,4 @@ I gave a presentation on The Language Model Book on May 17th, 2025 (first 100 pa
 | Chapter 4 | [Jypyter Notebook Code]() |
 | Chapter 5 | [Jypyter Notebook Code]() |
 | Chapter 6 | [Jypyter Notebook Code]() |
-| Chapter 7 | [Jypyter Notebook Code]() |
-| Chapter 8 | [Jypyter Notebook Code]() |
-| Chapter 9 | [Jypyter Notebook Code]() |
-| Chapter 10 | [Jypyter Notebook Code]() |
 

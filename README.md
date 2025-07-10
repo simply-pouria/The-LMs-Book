@@ -31,7 +31,7 @@ I gave a presentation on The Language Model Book on May 17th, 2025 (first 100 pa
 |---------|------|
 | Chapter 1 | [Jypyter Notebook Code](TheLMBook_Chapter1.ipynb) |
 | Chapter 2 | [Jypyter Notebook Code](TheLMBook_Chapter2.ipynb) |
-| Chapter 3 | [Jypyter Notebook Code]() |
+| Chapter 3 | [Jypyter Notebook Code](TheLMBook_Chapter3.ipynb) |
 | Chapter 4 | [Jypyter Notebook Code]() |
 | Chapter 5 | [Jypyter Notebook Code]() |
 | Chapter 6 | [Jypyter Notebook Code]() |

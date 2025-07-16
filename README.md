@@ -19,7 +19,7 @@ I gave a presentation on the first two chapters of The Language Model Book on Ma
 | Chapter 1 | [Notes](TheLMBook_Chapter1.pdf) |
 | Chapter 2 | [Notes](TheLMBook_Chapter2.pdf) |
 | Chapter 3 | [Notes](TheLMBook_Chapter3.pdf) |
-| Chapter 4 | [Notes]()                       |
+| Chapter 4 | [Notes](TheLMBook_Chapter4.pdf) |
 | Chapter 5 | [Notes]()                       |
 | Chapter 6 | [Notes]()                       |
 
@@ -30,6 +30,6 @@ I gave a presentation on the first two chapters of The Language Model Book on Ma
 | Chapter 1 | [Jypyter Notebook Code](TheLMBook_Chapter1.ipynb) |
 | Chapter 2 | [Jypyter Notebook Code](TheLMBook_Chapter2.ipynb) |
 | Chapter 3 | [Jypyter Notebook Code](TheLMBook_Chapter3.ipynb) |
-| Chapter 4 | [Jypyter Notebook Code]()                         |
+| Chapter 4 | [Jypyter Notebook Code](TheLMBook_Chapter4.ipynb) |
 | Chapter 5 | [Jypyter Notebook Code]()                         |
 | Chapter 6 | [Jypyter Notebook Code]()                         |
